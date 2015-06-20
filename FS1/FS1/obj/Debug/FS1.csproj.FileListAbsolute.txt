@@ -1,0 +1,9 @@
+c:\users\aman\documents\visual studio 2012\Projects\FS1\FS1\bin\Debug\FS1.exe.config
+C:\Users\Aman\Documents\Visual Studio 2012\Projects\FS1\FS1\bin\Debug\FS1.exe
+C:\Users\Aman\Documents\Visual Studio 2012\Projects\FS1\FS1\bin\Debug\FS1.pdb
+C:\Users\Aman\Documents\Visual Studio 2012\Projects\FS1\FS1\obj\Debug\FS1.Form1.resources
+C:\Users\Aman\Documents\Visual Studio 2012\Projects\FS1\FS1\obj\Debug\FS1.Properties.Resources.resources
+C:\Users\Aman\Documents\Visual Studio 2012\Projects\FS1\FS1\obj\Debug\FS1.csproj.GenerateResource.Cache
+C:\Users\Aman\Documents\Visual Studio 2012\Projects\FS1\FS1\obj\Debug\FS1.exe
+C:\Users\Aman\Documents\Visual Studio 2012\Projects\FS1\FS1\obj\Debug\FS1.pdb
+C:\Users\Aman\Documents\Visual Studio 2012\Projects\FS1\FS1\obj\Debug\FS1.csprojResolveAssemblyReference.cache
